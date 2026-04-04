@@ -1,3 +1,6 @@
+# SQL Sales Insights Project – Business Analytics & KPIs
+
+
 ## 🔗 Project Foundation – Data Warehouse
 
 This project focuses on **analyzing structured data and generating business insights using SQL**.
