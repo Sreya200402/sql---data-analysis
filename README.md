@@ -1,3 +1,15 @@
+## 🔗 Project Foundation – Data Warehouse
+
+This project focuses on **analyzing structured data and generating business insights using SQL**.
+
+👉 The data used in this project is prepared in the data warehouse project:
+➡️ [SQL Data Warehouse Project](https://github.com/Sreya200402/SQL_Data_Warehouse_Project)
+
+This represents the **analytics layer** built on top of a structured data warehouse.
+
+
+
+
 # Sales_Insights_SQL_Analysis
 EDA(Exploratory Data Analysis)
 
